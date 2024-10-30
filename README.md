@@ -1,1 +1,1 @@
-# git clone project name
+# git clone http url
